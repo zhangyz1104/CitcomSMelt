@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bin"
+		},
+		{
+			"path": "../../inputs"
+		},
+		{
+			"path": "../../temperature_profile"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.m": "matlab",
+			"global_defs.h": "c"
+		}
+	}
+}
